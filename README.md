@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lucyz92, mum of two baby boys.
+- 👀 I’m interested in Web development.
+- 🌱 I’m currently learning HTML, CSS, JavaScript and so on.
+- 💞️ I’m looking for an opportunity of being a web developer after maternity leave ends.
+- 📫 Feel free to email me.
